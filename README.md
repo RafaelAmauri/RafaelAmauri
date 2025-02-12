@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-## Rafael Amauri
+## Rafael
 
 
 I'm passionate about Computer Vision, Linux, Image Processing, and AI. Most of the software I've written relates to one or more of these topics in some way. 😁
@@ -24,5 +24,4 @@ An implementation of the ```tree``` command in pure C. What makes it interesting
 
 #### * [Kernel Updater](https://github.com/RafaelAmauri/Kernel-Updater)
 
-Kernel Updater is a project that automatically downloads, compiles and installs any version of the Linux kernel. It was made as a way for me to learn basic bash scripting.
-
+**Kernel Updater** is a script that automatically downloads, compiles, and installs any version of the Linux kernel. I built this project as a way to learn the basics of Bash scripting.
