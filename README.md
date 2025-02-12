@@ -20,7 +20,7 @@ This is my favorite project by far! **Image Studio** is a space where I experime
 
 #### * [Tree](https://github.com/RafaelAmauri/Tree)
     
-An implementation of the ```tree``` command in pure C. What makes it interesting is that it avoids any recursion, instead using a custom linked stack to list directory contents. This improves performance and reduces resource usage.
+An implementation of the ```tree``` command in pure C. What makes it interesting is that it avoids any recursion, instead using a custom linked stack to list directory contents. This improves performance and reduces resource usage. The program also only utilizes the C standard library, which makes it extremely portable and lightweight.
 
 #### * [Kernel Updater](https://github.com/RafaelAmauri/Kernel-Updater)
 
