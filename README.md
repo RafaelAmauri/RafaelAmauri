@@ -16,7 +16,7 @@ Here are some of my personal projects:
 
 #### * [Image Studio](https://github.com/RafaelAmauri/Image-Studio)
     
-This is my favorite project by far! **Image Studio** is a space where I experiment with coding various image processing techniques by hand, implementing things I find interesting in the field.
+This is my favorite project by far! **Image Studio** is a space where I experiment with coding various image processing techniques by hand and implementing things that I find interesting in the field.
 
 #### * [Tree](https://github.com/RafaelAmauri/Tree)
     
