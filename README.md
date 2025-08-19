@@ -16,7 +16,7 @@ Here are some of my personal projects:
 
 ####  • [Image Studio](https://github.com/RafaelAmauri/Image-Studio)
     
-This is my favorite project by far! **Image Studio** is a space where I challenge myself to use Numpy (and really ONLY NUMPY) to implement things that I find interesting in the world of image processing.
+This is my favorite project by far! **Image Studio** is where I challenge myself to implement image processing algorithms that I find interesting without the help of external image processing libraries. Everything in this repo is either pure Numpy or C-like Cython code.
 
 #### • [Tree](https://github.com/RafaelAmauri/Tree)
     
