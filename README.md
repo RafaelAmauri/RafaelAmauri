@@ -1,7 +1,9 @@
 # Hi, I'm Rafael 👋
 
 
-Welcome to my GitHub profile. I'm passionate about Image Processing, Computer Vision, Linux, and AI. Most of the software I've written relates to one or more of these topics in some way. 😁
+Welcome to my GitHub profile! 
+
+I'm passionate about Image Processing, Computer Vision, Linux, and AI. Most of the software I've written relates to one or more of these topics in some way. 😁
 
 I'm currently pursuing a Master's degree at UFMG, focusing on **Deep Active Learning for Continuous Sign Language Recognition**.
 
